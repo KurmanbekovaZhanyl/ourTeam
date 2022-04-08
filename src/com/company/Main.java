@@ -11,5 +11,10 @@ public class Main {
         System.out.println("Janyl  ");
         System.out.println("this is my method ");
 
+
+        System.out.println("Koshuldu");
+
+
+
     }
 }
